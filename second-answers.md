@@ -11,3 +11,6 @@ error: failed to push some refs to 'https://github.com/AnthonyDade/die-class1.gi
 
 5. die.cc	first-answers.md  README.md  second-answers.md
 
+6. first-answers.md  README.md  second-answers.md
+
+7. No, it is not
