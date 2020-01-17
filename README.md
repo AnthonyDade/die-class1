@@ -1,2 +1,2 @@
-# die-class1
-lab 1
+# Git Lab #2
+## First team member: <AnthonyDade>
