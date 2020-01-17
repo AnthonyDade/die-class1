@@ -1,2 +1,2 @@
-# die-class1
-lab 1
+# The second Git Lab
+## Second team member: Nathan Bennett
