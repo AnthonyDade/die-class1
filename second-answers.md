@@ -1,6 +1,6 @@
 1.  ! [rejected]        master -> master (fetch first)
     error: failed to push some refs to 'https://github.com/AnthonyDade/die-class1.git'
-    
+
 2.  ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'https://github.com/AnthonyDade/die-class1.git'
 
@@ -8,3 +8,6 @@ error: failed to push some refs to 'https://github.com/AnthonyDade/die-class1.gi
 
 4.* implement
     master
+
+5. die.cc	first-answers.md  README.md  second-answers.md
+
